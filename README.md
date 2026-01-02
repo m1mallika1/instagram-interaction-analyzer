@@ -54,14 +54,16 @@ The project uses a simulated Instagram dataset structured to reflect real-world 
 ---
 
 ## Project Structure
-instagram-interaction-analyzer/
-├── app.R                   # Shiny dashboard
-├── clean_data.R            # Data cleaning script
-├── eda.R                   # Exploratory data analysis
-├── generate_data.R         # Synthetic dataset generation
-├── instagram_data.csv      # Simulated Instagram dataset
-├── install_packages.R      # Script to install dependencies
-└── README.md               # Project overview
+
+- **instagram-interaction-analyzer/**
+  - `app.R`                  - Shiny dashboard
+  - `clean_data.R`           - Data cleaning script
+  - `eda.R`                  - Exploratory data analysis
+  - `generate_data.R`        - Synthetic dataset generation
+  - `instagram_data.csv`     - Simulated Instagram dataset
+  - `install_packages.R`     - Script to install dependencies
+  - `README.md`              - Project overview
+
 
 ---
 
