@@ -1,0 +1,101 @@
+post_id,timestamp,post_type,likes,comments,saves,user_id,comment_text,engagement_score,weekday,hour
+1,2025-08-04,Image,161,93,28,4uraie1610,So cool!,282,Mon,7
+2,2025-08-05,Image,121,84,11,chenmenghan515,🔥,216,Tue,19
+3,2025-08-06,Image,334,90,18,lima_s_ana_,So cool!,442,Wed,22
+4,2025-08-07,Image,488,82,16,michrussan,Amazing!,586,Thu,13
+5,2025-08-08,Video,471,26,14,michell_cherlyn23,So cool!,511,Fri,0
+6,2025-08-09,Video,50,71,29,zya_niazik,Amazing!,150,Sat,23
+7,2025-08-10,Video,190,22,41,lima_s_sna,Nice post!,253,Sun,13
+8,2025-08-11,Image,255,72,6,uerrrr335566,🔥,333,Mon,20
+9,2025-08-12,Reel,438,58,39,c_syd,🔥,535,Tue,23
+10,2025-08-13,Reel,360,70,38,michrussan,So cool!,468,Wed,17
+11,2025-08-14,Image,449,10,31,m.lymxh,Amazing!,490,Thu,23
+12,2025-08-15,Image,348,26,50,saisai_ss1,So cool!,424,Fri,1
+13,2025-08-16,Video,91,42,35,meryem_sinrs_19,Amazing!,168,Sat,4
+14,2025-08-17,Video,91,37,31,wukum_1,Love this!,159,Sun,9
+15,2025-08-18,Video,297,11,20,user012446,🔥,328,Mon,11
+16,2025-08-19,Reel,402,40,40,chenmenghan515,Amazing!,482,Tue,2
+17,2025-08-20,Reel,300,17,28,patriciamaria3411,Amazing!,345,Wed,17
+18,2025-08-21,Image,490,89,42,userr_picauwww,Love this!,621,Thu,17
+19,2025-08-22,Image,206,12,25,ish.aa355,Nice post!,243,Fri,17
+20,2025-08-23,Reel,74,22,24,manfah_124,Nice post!,120,Sat,14
+21,2025-08-24,Image,420,21,15,patriciamaria3411,Nice post!,456,Sun,0
+22,2025-08-25,Reel,240,74,37,thetmon1615,🔥,351,Mon,7
+23,2025-08-26,Image,81,39,18,mcquinn_,Amazing!,138,Tue,18
+24,2025-08-27,Image,386,60,32,qqqa_syaysa,🔥,478,Wed,7
+25,2025-08-28,Video,287,69,37,qqqa_syaysa,Love this!,393,Thu,19
+26,2025-08-29,Reel,63,46,33,meryem_sinrs_19,So cool!,142,Fri,18
+27,2025-08-30,Video,160,56,40,hihibyebye_1255,🔥,256,Sat,1
+28,2025-08-31,Image,311,65,49,hoain_majib,Amazing!,425,Sun,20
+29,2025-09-01,Video,480,79,36,zya_niazik,🔥,595,Mon,19
+30,2025-09-02,Video,348,25,42,nopydd,So cool!,415,Tue,18
+31,2025-09-03,Reel,495,19,26,wao.07,Nice post!,540,Wed,10
+32,2025-09-04,Reel,470,80,48,patriciamaria3411,🔥,598,Thu,14
+33,2025-09-05,Video,257,82,11,rasti9198,So cool!,350,Fri,17
+34,2025-09-06,Video,418,34,48,fr_e_yhh,🔥,500,Sat,7
+35,2025-09-07,Video,295,12,9,imstartcen262100,🔥,316,Sun,23
+36,2025-09-08,Video,418,91,35,qqqa_syaysa,Love this!,544,Mon,9
+37,2025-09-09,Image,291,62,36,saisai_ss1,🔥,389,Tue,1
+38,2025-09-10,Image,336,37,22,mcquinn_,🔥,395,Wed,21
+39,2025-09-11,Video,467,88,43,thetmon1615,Amazing!,598,Thu,3
+40,2025-09-12,Video,399,66,17,wao.07,🔥,482,Fri,22
+41,2025-09-13,Reel,273,93,34,ish.aa355,Love this!,400,Sat,16
+42,2025-09-14,Reel,311,98,6,qqqq_syaysa,Amazing!,415,Sun,11
+43,2025-09-15,Image,263,89,32,wulanya_06,So cool!,384,Mon,22
+44,2025-09-16,Image,343,97,7,uerrrr335566,Nice post!,447,Tue,19
+45,2025-09-17,Video,144,70,37,zya_niazik,Amazing!,251,Wed,18
+46,2025-09-18,Video,55,52,33,qqqa_syaysa,So cool!,140,Thu,6
+47,2025-09-19,Video,389,31,24,m.lymxh,So cool!,444,Fri,8
+48,2025-09-20,Video,301,35,47,ish.aa355,Love this!,383,Sat,18
+49,2025-09-21,Video,320,63,13,mcquinn_,Nice post!,396,Sun,20
+50,2025-09-22,Reel,83,63,14,userr_picauwww,Nice post!,160,Mon,10
+51,2025-09-23,Video,475,93,11,kristineimoetscc,So cool!,579,Tue,10
+52,2025-09-24,Image,237,64,32,qqqa_syaysa,Amazing!,333,Wed,11
+53,2025-09-25,Video,303,63,22,warayanu,Nice post!,388,Thu,16
+54,2025-09-26,Reel,317,67,29,baij_by,So cool!,413,Fri,1
+55,2025-09-27,Video,177,54,48,krisnaimeotscc,🔥,279,Sat,19
+56,2025-09-28,Video,459,46,14,lima_s_sna,Nice post!,519,Sun,6
+57,2025-09-29,Video,90,52,13,wukum_1,So cool!,155,Mon,16
+58,2025-09-30,Image,242,88,23,ish.aa355,Love this!,353,Tue,3
+59,2025-10-01,Image,115,94,19,gb4vndm,So cool!,228,Wed,12
+60,2025-10-02,Image,361,43,50,zya_niazik,🔥,454,Thu,18
+61,2025-10-03,Reel,201,34,7,.ilv.rly,Amazing!,242,Fri,0
+62,2025-10-04,Image,147,74,26,wukum_1,🔥,247,Sat,16
+63,2025-10-05,Video,74,23,24,michrussan,🔥,121,Sun,3
+64,2025-10-06,Image,397,58,46,km._.bp_e,Nice post!,501,Mon,1
+65,2025-10-07,Image,156,20,38,delia_rose27,Amazing!,214,Tue,20
+66,2025-10-08,Image,366,37,27,wulanya_06,Love this!,430,Wed,7
+67,2025-10-09,Reel,495,27,21,zya_niazik,Amazing!,543,Thu,2
+68,2025-10-10,Reel,63,64,22,delia_rose27,So cool!,149,Fri,12
+69,2025-10-11,Image,211,51,23,krisnaimeotscc,So cool!,285,Sat,1
+70,2025-10-12,Image,173,45,50,athena_marise,Amazing!,268,Sun,22
+71,2025-10-13,Video,243,29,21,lima_s_ana_,Amazing!,293,Mon,3
+72,2025-10-14,Image,144,88,34,hus.na032,🔥,266,Tue,8
+73,2025-10-15,Video,81,70,14,manfah_124,Nice post!,165,Wed,10
+74,2025-10-16,Video,460,80,41,fr_e_yhh,So cool!,581,Thu,9
+75,2025-10-17,Video,443,36,49,zya_niazik,Nice post!,528,Fri,13
+76,2025-10-18,Image,234,14,14,mcquinn_,🔥,262,Sat,0
+77,2025-10-19,Video,333,95,38,patriciamaria3411,Amazing!,466,Sun,0
+78,2025-10-20,Image,167,29,8,warayanu,Amazing!,204,Mon,13
+79,2025-10-21,Video,86,50,29,_yehaniexevr,Love this!,165,Tue,19
+80,2025-10-22,Reel,187,20,30,kristineimoetscc,🔥,237,Wed,20
+81,2025-10-23,Image,418,47,43,n0t_kyy1,So cool!,508,Thu,10
+82,2025-10-24,Image,310,82,37,kristineimoetscc,So cool!,429,Fri,8
+83,2025-10-25,Reel,84,32,50,_ra8sha_,🔥,166,Sat,18
+84,2025-10-26,Video,127,99,26,meryem_sinrs_19,🔥,252,Sun,4
+85,2025-10-27,Video,63,20,48,anindyayayy____,Amazing!,131,Mon,20
+86,2025-10-28,Reel,205,28,23,ashleymacarilay,🔥,256,Tue,1
+87,2025-10-29,Image,427,94,10,laknoo.1,🔥,531,Wed,8
+88,2025-10-30,Image,146,45,48,meryem_sinrs_19,Amazing!,239,Thu,2
+89,2025-10-31,Video,278,51,29,zya_niazik,Love this!,358,Fri,23
+90,2025-11-01,Reel,231,95,34,ashleymacarilay,Nice post!,360,Sat,11
+91,2025-11-02,Video,176,98,46,chenmenghan515,Amazing!,320,Sun,1
+92,2025-11-03,Image,336,63,43,miadu07,So cool!,442,Mon,23
+93,2025-11-04,Image,92,68,29,gb4vndm,Love this!,189,Tue,15
+94,2025-11-05,Image,229,39,6,imstartcen262100,Amazing!,274,Wed,17
+95,2025-11-06,Image,386,68,42,delia_rose27,🔥,496,Thu,21
+96,2025-11-07,Image,492,94,13,chenmenghan515,Amazing!,599,Fri,16
+97,2025-11-08,Video,76,30,15,qqqa_syaysa,Nice post!,121,Sat,19
+98,2025-11-09,Reel,79,79,10,_yehaniexevr,So cool!,168,Sun,7
+99,2025-11-10,Image,229,56,35,imstartcen262100,Nice post!,320,Mon,7
+100,2025-11-11,Video,405,83,9,imoeshey,Amazing!,497,Tue,18
