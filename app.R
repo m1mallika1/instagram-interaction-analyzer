@@ -7,7 +7,7 @@ library(bslib)
 library(broom)
 
 # Load and prepare data
-df <- read_csv("C:/Users/dell/Desktop/InstaAnalyz/data/instagram_data.csv") %>%
+df <- read_csv("data/instagram_data.csv") %>%
   mutate(
     weekday = wday(timestamp, label = TRUE),
     hour = as.numeric(hour)
