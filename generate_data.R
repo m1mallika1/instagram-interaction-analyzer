@@ -38,4 +38,4 @@ df <- tibble(
   )
 
 #  Save to CSV
-write_csv(df, "C:/Users/dell/Desktop/InstaAnalyz/data/instagram_data.csv")
+write_csv(df, "data/instagram_data.csv")
